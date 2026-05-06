@@ -1,2 +1,2 @@
-# Jogo-da-velha
-jogo da velha com IA simples 
+# Tic-tac-toe
+Tic-tac-toe with pvp interaction and player vs machine
